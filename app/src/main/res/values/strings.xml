@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">P1_MyPhotosCarousel</string>
+    <string name="app_name">DI_P1_MyPhotosCarousel</string>
     <string name="carousel_image_1_description">Cola de ballena</string>
     <string name="carousel_image_2_description">Flores</string>
     <string name="carousel_image_3_description">Bosque</string>

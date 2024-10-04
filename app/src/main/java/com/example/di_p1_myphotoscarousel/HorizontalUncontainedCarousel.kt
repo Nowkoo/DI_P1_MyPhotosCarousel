@@ -1,4 +1,4 @@
-package com.example.p1_myphotoscarousel
+package com.example.di_p1_myphotoscarousel
 
 import android.media.Image
 import androidx.compose.foundation.Image
